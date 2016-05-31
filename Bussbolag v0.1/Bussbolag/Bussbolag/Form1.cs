@@ -192,6 +192,12 @@ namespace Bussbolag
             cmd.CommandText = "insert into Harbokat(personNr,reseId, antal) values('" + personNr + "' , '" + reseId + "','" + antal + "')";
             cmd.ExecuteNonQuery();
             connection.Close();
+
+            string query = "UPDATE bussresa SET platser = platser - '" + antal + "' where reseId = '" + reseId + "'";
+            connection.Open();
+            cmd = new MySqlCommand(query, connection);
+            cmd.ExecuteNonQuery();
+            connection.Close();
         }
     }
 }

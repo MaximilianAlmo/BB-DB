@@ -36,3 +36,6 @@ C:\Users\Shervin\Documents\GitHub\BB-DB\Bussbolag v0.1\Bussbolag\Bussbolag\obj\D
 C:\Users\Shervin\Documents\GitHub\BB-DB\Bussbolag v0.1\Bussbolag\Bussbolag\obj\Debug\Bussbolag.Form1.resources
 C:\Users\Shervin\Documents\GitHub\BB-DB\Bussbolag v0.1\Bussbolag\Bussbolag\obj\Debug\Bussbolag.Properties.Resources.resources
 C:\Users\Shervin\Documents\GitHub\BB-DB\Bussbolag v0.1\Bussbolag\Bussbolag\obj\Debug\Bussbolag.csproj.GenerateResource.Cache
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag v0.1\Bussbolag\Bussbolag\bin\Debug\Bussbolag.exe.config
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag v0.1\Bussbolag\Bussbolag\obj\Debug\Bussbolag.exe
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag v0.1\Bussbolag\Bussbolag\obj\Debug\Bussbolag.pdb
