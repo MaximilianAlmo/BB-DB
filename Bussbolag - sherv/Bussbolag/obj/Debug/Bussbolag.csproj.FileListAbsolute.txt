@@ -10,3 +10,16 @@ c:\users\max\documents\Bussbolag\Bussbolag\Bussbolag\obj\Debug\Bussbolag.Propert
 c:\users\max\documents\Bussbolag\Bussbolag\Bussbolag\obj\Debug\Bussbolag.csproj.GenerateResource.Cache
 c:\users\max\documents\Bussbolag\Bussbolag\Bussbolag\obj\Debug\Bussbolag.exe
 c:\users\max\documents\Bussbolag\Bussbolag\Bussbolag\obj\Debug\Bussbolag.pdb
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag - sherv\Bussbolag\bin\Debug\Bussbolag.exe.config
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag - sherv\Bussbolag\obj\Debug\Bussbolag.exe
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag - sherv\Bussbolag\obj\Debug\Bussbolag.pdb
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag - sherv\Bussbolag\bin\Debug\Bussbolag.exe
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag - sherv\Bussbolag\bin\Debug\Bussbolag.pdb
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag - sherv\Bussbolag\bin\Debug\MySql.Data.dll
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag - sherv\Bussbolag\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag - sherv\Bussbolag\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag - sherv\Bussbolag\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag - sherv\Bussbolag\bin\Debug\MySql.Web.v20.dll
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag - sherv\Bussbolag\obj\Debug\Bussbolag.Form1.resources
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag - sherv\Bussbolag\obj\Debug\Bussbolag.Properties.Resources.resources
+C:\Users\Kalle\Documents\GitHub\BB-DB\Bussbolag - sherv\Bussbolag\obj\Debug\Bussbolag.csproj.GenerateResource.Cache
