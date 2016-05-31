@@ -117,4 +117,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Städer vi åker i mellan:
+Göteborg - Malmö (2016-06-05, kl.13:00-15:00) (200kr)
+Malmö - Berlin (2016-06-06, kl.10:00 - 20:00) (500kr)
+Köpenhamn - Malmö (2016-06-12 kl.11:00 - 12:00) (100kr)
+Köpenhamn - Paris (2016-06-15, kl.10:30-20:00) (700kr)
+Malmö-Köpenhamn (2016-06-17, kl.11:30-12:30) (100kr)
+Malmö-Göteborg(2016-06-21, kl.13:00-15:00) (200kr)
+Göteborg-Blomstermåla(2016-06-25 kl.10:50-11:20) (100kr)
+
+Info om städer vi åker till:
+Malmö: Valuta: sek Land: Sverige  Språk: svenska 
+Blomstermåla: Valuta: sek Land: Sverige  Språk: svenska 
+Göteborg: Valuta: sek Land: Sverige Språk: svenska   
+Berlin: Valuta: euro Land: Tyskland Språk: tyska
+Köpenhamn: Valuta: dkk Land: Danmark Språk: danska
+Paris: Valuta: euro Land: Frankrike Språk: franska
+</value>
+  </data>
 </root>
